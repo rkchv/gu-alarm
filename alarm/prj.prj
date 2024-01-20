@@ -1,0 +1,22 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Create Tagfile=0
+[Files]
+0=.\bin\
+1=.\data\
+2=.\debug\
+3=.\dll\
+4=.\doc\
+5=.\logs\
+6=.\notebook\
+7=.\obj\
+8=.\release\
+9=.\source\
+10=.\support\
